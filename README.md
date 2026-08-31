@@ -3,7 +3,7 @@
 
 ### 🚀 About Me
  
-Hey, I'm Sujib 👨‍💻 — a software developer who loves turning random ideas into actual working apps (and occasionally breaking production along the way 😅).
+Hey, I'm Sujib 👨‍💻 — a software developer who loves turning random ideas into actual working apps .
  
 - 🔭 Currently building full-stack stuff 
 - 🌱 On a quest to level up my **System Design** game
